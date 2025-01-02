@@ -1,3 +1,3 @@
 function f() {
-  return 7 + 5
+  return debugger + 5
 }
